@@ -1,0 +1,39 @@
+header{
+    height: 80px;
+    background-color: #ffffff;
+}
+body{
+    background-color: burlywood;
+    margin: 0px;
+}
+#header-content{
+    width: 80%;
+    margin: auto;
+}
+.col{
+    width: 33%;
+    float: left;
+}
+menu{
+    padding-top: 100px;
+}
+.menu li{
+    list-style-type: none;
+    display: inline;
+    font-size: .85em;
+    color: #8e8e8e;
+    padding-right: 30px;
+}
+img{
+    height: 70px;
+    width: 50%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    float: right;
+}
+#main-content{
+    width: 50%;
+}
+#main-content{
+    text-align: justify;
+}
